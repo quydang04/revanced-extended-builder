@@ -1,19 +1,19 @@
 [
   {
-    "patchName": "Custom branding name for YouTube",
-    "options": [
-      {
-        "key": "AppName",
-        "value": "Youtube Revanced"
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding icon for YouTube",
     "options": [
       {
         "key": "AppIcon",
         "value": "Revancify Blue"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "Youtube Revanced"
       }
     ]
   },
@@ -34,5 +34,18 @@
         "value": "app.rvx.android.youtube"
       }
     ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "DarkThemeBackgroundColor",
+        "value": "@android:color/black"
+      },
+      {
+        "key": "LightThemeBackgroundColor",
+        "value": "@android:color/white"
+      }
+    ]
   }
-]       
+]
