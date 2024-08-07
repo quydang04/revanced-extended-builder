@@ -1,6 +1,6 @@
 {
-  "version": "v7.08.52",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/quydang04/test/releases/download/1/music-revanced-extended-magisk-v7.08.52-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/quydang04/test/update/build.md"
+  "version": "v7.10.52",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/quydang04/revanced-extended-builder/releases/download/6/music-revanced-extended-magisk-v7.10.52-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/quydang04/revanced-extended-builder/update/build.md"
 }
