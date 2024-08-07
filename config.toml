@@ -12,7 +12,9 @@ rv-brand = "Revanced Extended"
 arch = "both"
 included-patches = "'Change start page' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom double tap length' 'Custom package name' 'GmsCore support' 'Hide ads' 'MaterialYou' 'Return YouTube Dislike' 'Settings for YouTube' 'SponsorBlock' 'Video playback' 'Custom package name' 'Theme' 'Watch history'"
 exclusive-patches = true
+
 # Youtube Music
+
 [Music-Extended]
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
