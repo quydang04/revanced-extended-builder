@@ -15,7 +15,7 @@ exclusive-patches = true
 
 # Youtube Music
 
-[Music-Extended]
+[RVX Music]
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -25,3 +25,4 @@ build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 arch = "both"
+excluded-patches = "'Change share sheet' 'Change start page' 'Enable Cairo splash animation' 'Enable debug logging' 'Hide account components' 'Hide action bar components' 'Restore old style library shelf' 'Sanitize sharing links'"
