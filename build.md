@@ -1,6 +1,6 @@
 YouTube (arm-v7a): 19.16.39  
-RVXMusic (arm-v7a): 7.13.52  
 YouTube (arm64-v8a): 19.16.39  
+RVXMusic (arm-v7a): 7.13.52  
 RVXMusic (arm64-v8a): 7.13.52  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
