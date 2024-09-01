@@ -1,5 +1,5 @@
-YouTube (arm64-v8a): 19.16.39  
 YouTube (arm-v7a): 19.16.39  
+YouTube (arm64-v8a): 19.16.39  
 RVXMusic (arm-v7a): 7.13.52  
 RVXMusic (arm64-v8a): 7.13.52  
 
